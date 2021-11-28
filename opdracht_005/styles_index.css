@@ -1,0 +1,33 @@
+*{
+    margin: 10px
+}
+header {
+    border: blue 5px solid;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center
+    
+}
+
+main {
+    border: blue 3px solid;
+    padding: 5px 20px
+}
+
+ul {
+    padding-left: 0;
+    list-style: circle;
+}
+
+footer {
+    border: blue 3px solid;
+    padding: 5px 20px
+}
+
+a {
+    color:blue;
+}
+
+nav li{
+    display: inline;
+}
